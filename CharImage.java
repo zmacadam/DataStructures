@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class CharImageb {
+public class CharImage {
 
 	private int rows;
 	private int columns;

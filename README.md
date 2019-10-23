@@ -6,17 +6,17 @@ Input:
 #image  
 1  
 3 3  
-.*.  
-*.*  
-*.*  
+. \* .  
+\* . \*  
+\* . \*  
 
 Output:  
 #"colored" image  
 #number of connected components  
 #list of sized components  
-.a.  
-b.c  
-b.c  
+. a .  
+b . c  
+b . c  
 3  
 1 1  
 2 2  

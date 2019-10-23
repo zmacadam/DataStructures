@@ -12,10 +12,10 @@ Example input:
 @2+3+4\*5  
 
 Example output:  
-+ + 2 3 * 4 5  
+\+ \+ 2 3 * 4 5  
 ((2 + 3) + (4 * 5))  
 2 3 + 4 5 * +  
-+ + * 2 3 4 5  
+\+ \+ * 2 3 4 5  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +  
 &nbsp;&nbsp; + &nbsp;&nbsp; *  
 &nbsp; 2 3 4 5  

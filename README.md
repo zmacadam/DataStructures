@@ -9,7 +9,7 @@ Subtract (SUB var_name1 var_name2)
 Multiply (MULT var_name1 var_name2)  
 Quit (QUIT)
 
-Two double linked lists are used to store the polynomials
+Two double linked lists are used to store the polynomials  
 -MVPolyTable DLL stores  
   -MVPolynomial DLL stores  
     -MVPolyTerm stores individual terms  

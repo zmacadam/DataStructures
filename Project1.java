@@ -16,7 +16,7 @@ import java.io.InputStreamReader;
 //Project completion time: 10 hours
 //Not working components: None found
 //*******************************************************************
-public class Project1b {
+public class Project1 {
 	//********************************************************************
 	// Main Method
 	//

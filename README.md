@@ -1,23 +1,15 @@
 # DataStructures
-Project 1 takes an "image" as input and outputs the total number of connected components and a count of the different sized components. "\*" indicates colored pixels, "." indicates blank pixel.  
-Input:  
-#number of images  
-#dimensions of image  
-#image  
-1  
-3 3  
-. \* .  
-\* . \*  
-\* . \*  
+Project 2 uses only Double Linked Lists (class created from scratch) to implement storage of polynomials with the following operations (syntax in parentheses):  
+Insert (INSERT var_name polynomial)  
+Delete (DELETE var_name)  
+Update (UPDATE var_name new_polynomial)  
+Search (SEARCH var_name)  
+Add (ADD var_name1 var_name2)  
+Subtract (SUB var_name1 var_name2)  
+Multiply (MULT var_name1 var_name2)  
+Quit (QUIT)
 
-Output:  
-#"colored" image  
-#number of connected components  
-#list of sized components  
-. a .  
-b . c  
-b . c  
-3  
-1 1  
-2 2  
-
+Two double linked lists are used to store the polynomials
+-MVPolyTable DLL stores  
+  -MVPolynomial DLL stores  
+    -MVPolyTerm stores individual terms  
